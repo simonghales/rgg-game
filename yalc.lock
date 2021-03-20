@@ -1,0 +1,15 @@
+{
+  "version": "v1",
+  "packages": {
+    "rgg-engine": {
+      "signature": "0c609fda8008ce0d974c585e1fba747b",
+      "link": true,
+      "replaced": "^0.4.5-beta.2"
+    },
+    "rgg-editor": {
+      "signature": "03c79db0ca8822e0ee6b9507f5fe6a73",
+      "link": true,
+      "replaced": "^0.1.23-beta.0"
+    }
+  }
+}
